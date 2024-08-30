@@ -26,7 +26,7 @@ Welcome to **Brainlighter**—the app that makes personal growth feel like scrol
 
 Download Brainlighter now and start your growth journey today!
 
-- [Get it on Android](https://play.google.com/store/apps/details?id=app.brainlighter)  
-- [Download on iOS](https://apps.apple.com/us/app/habits-tracker-brainlighter/id6502211964)
+- [Habit tracker app on Android](https://play.google.com/store/apps/details?id=app.brainlighter)  
+- [Habit tracker app on iOS](https://apps.apple.com/us/app/habits-tracker-brainlighter/id6502211964)
 
 Let’s make self-improvement as fun as scrolling through your favorite feed! ✨
